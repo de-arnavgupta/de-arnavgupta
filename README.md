@@ -20,10 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=de-arnavgupta&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=de-arnavgupta&theme=dark)  
-
 ---
 
 ## 💬 Random Dev Quote  
@@ -31,5 +27,3 @@
 
 ---
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=de-arnavgupta&style=for-the-badge&color=blue)
